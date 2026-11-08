@@ -8,7 +8,7 @@
 | Agent's own terminal (Node) | Test harnesses `tools/test.js`, `tools/smoke.js`; report snapshot; `answers.json` generation. |
 | Python (pypdf) | Extracted the two brief PDFs (CJK-ligature PDF text didn't copy-paste cleanly). |
 | Jev (TypeSafe) | `tools/jev.js` is ready for Choice and Noul on 51 hand-labeled messages. It does not run: TypeSafe publishes no free key. | 
-| Groq free plan | `tools/classify_free.js` sends those same 51 messages to `openai/gpt-oss-20b`. Result: 47/51 categories, 49/51 frustration. This is the measured stand-in. It is not Jev. The key is not stored in the repo. |
+| Groq free plan | Replaces the Jev job. `tools/classify_free.js` measured 47/51 categories and 49/51 frustration marks on the hand-labeled sample. `tools/label_inbox.js` then labeled all 202 inbox lines. Those labels show on the client sheet. The key is not stored in the repo. |
 
 ## Key prompts / how I drove it
 

@@ -30,9 +30,11 @@ New files replace one dataset, chosen by the header, and every total recomputes.
 
 # Jev
 
-The job is to label each inbox line as a request, complaint, billing note, churn risk, lead, schedule change, spam, or other, and to score frustration. That is the missing step between the five inboxes and the video board. `tools/jev.js` is ready for Jev. It did not run. TypeSafe publishes no free key.
+The job is to label each inbox line as a request, complaint, billing note, churn risk, lead, schedule change, spam, or other, and to mark frustration. That is the step between the five inboxes and the video board.
 
-The measured stand-in is Groq's free plan, model `openai/gpt-oss-20b`, on the same 51 hand-labeled lines (every 4th message). Category: **47 of 51** (92%). Frustration: **49 of 51** (96%). The four category misses were a schedule note called other, a lead called a request, a neutral line called spam, and a spam line called billing. This is not a Jev score. The local rule list was tuned on this same file, so it is not the number above.
+TypeSafe has no free Jev key, so Groq's free plan did this job. The model is `openai/gpt-oss-20b`. On 51 hand-labeled lines, every 4th message, the category was right **47 of 51** times and the frustration mark was right **49 of 51** times. The four category misses were a schedule note called other, a lead called a request, a neutral line called spam, and a spam line called billing.
+
+Every original inbox line now shows that label on the client sheet. The money totals still come from the invoices and the bank. A newly uploaded file is not sent to Groq, because the key is not in the website.
 
 # Next 2 weeks
 

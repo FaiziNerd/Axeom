@@ -277,6 +277,12 @@
   var EDIT_REQUEST = /(remove|cut|blur|calmer song|music|brand color|phone number|walk-ins welcome|spelled wrong|other shot|captions|outside|stumble|prices|too loud)/i;
   var FRUSTRATION = /(still not fixed|second time i ask|did anyone see|sigue igual|ya les hab|still has the same problem|not happy)/i;
 
+  function inboxLabel(line) {
+    var table = (typeof AXEOM_LABELS === "object" && AXEOM_LABELS) || null;
+    var row = table && table[line];
+    return row && row.category ? row.category : "";
+  }
+
   function parseMessages(text, leads) {
     var out = [];
     var phoneIndex = {};
@@ -336,7 +342,8 @@
         name: name || phone, text: msg, phone: phone, lead_id: lead ? lead.lead_id : null,
         client: client, fromOwner: dir === "to",
         spam: isSpam(email + " " + handle + " " + msg, msg),
-        isRequest: EDIT_REQUEST.test(msg), frustrated: FRUSTRATION.test(msg)
+        isRequest: EDIT_REQUEST.test(msg), frustrated: FRUSTRATION.test(msg),
+        inbox: inboxLabel(line)
       });
     });
     return out;

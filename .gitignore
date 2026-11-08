@@ -4,3 +4,4 @@ desktop.ini
 tools/report.json
 tools/rule_results.json
 tools/probe_out.txt
+tools/inbox_partial.json

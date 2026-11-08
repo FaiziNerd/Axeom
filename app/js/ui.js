@@ -238,7 +238,7 @@
 
     sheet.innerHTML += "<h2 class='sec'>Message history</h2><div class='msghist'>" +
       (msgs.length ? msgs.map(function (m) {
-        return "<div class='m" + (m.frustrated ? " bad" : "") + "'><div class='d'>" + esc(m.date) + " · " + esc(m.channel) + "</div>" +
+        return "<div class='m" + (m.frustrated ? " bad" : "") + "'><div class='d'>" + esc(m.date) + " · " + esc(m.channel) + (m.inbox ? " · " + esc(m.inbox) : "") + "</div>" +
           "<div class='c'>" + esc(m.text.slice(0, 130)) + "</div></div>";
       }).join("") : "<div class='legend'>no messages on file</div>") + "</div>";
 

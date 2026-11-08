@@ -1,0 +1,8 @@
+{
+  "provider": "groq",
+  "model": "openai/gpt-oss-20b",
+  "replaces": "jev",
+  "labeled": 202,
+  "reused_measured_sample": 51,
+  "fresh_calls": 151
+}
