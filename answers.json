@@ -695,8 +695,8 @@
     "Declined/lost-lead reasons: leads.csv has a status but no reason field, so 'lost' ≠ 'rejected us' vs 'never answered them'."
   ],
   "monday_top_3": [
-    "Call Delgado Insurance first thing (Grace promised a 'contract talk this week'): admit the name-caption failure, re-deliver two videos with 'Delgado Insurance Group' + bigger captions within 48h, fix September's retainer handling in the billing tool, and ask Grace what would make renewal make sense.",
-    "Sweep the money in one pass: refund Vista's $900 double payment, re-issue the $250 Malik's August retainer was short, keep void INV-1160 out of any total, bill the $2,700 of shoots with no invoice, flip the 6 invoices the tool still calls unpaid, and chase the 9 real overdue invoices ($11,650), oldest first.",
-    "Create one request inbox with a 24h SLA: a tiny form (or shared inbox) that siphons email, WhatsApp, Instagram DMs and voice notes into production_BOARD rows keyed by video_id, then closes the loop with the client. Nothing ships without a 'this fix is done' confirmation message — silence is why Glow left in June ('my notes keep getting missed') and Delgado is leaving now."
+    "Call Delgado Insurance Group first. Grace wrote on 30 Sep and again on 3 Oct about the contract, and neither note was answered. INV-1120 is 21 days late ($2,500). Yes on the phone only records the decision. It does not send anything.",
+    "Refund $900 to Vista Med Spa. P5091 and P5092 both pay INV-1079.",
+    "Chase INV-1094. Cypress Gym owes $900 and the invoice is 49 days late. The billing tool says paid, and no cash arrived."
   ]
 }

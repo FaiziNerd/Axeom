@@ -76,7 +76,3 @@ misses.forEach(r => console.log("  #" + r.i, r.truth, "→", r.got, "|", r.line.
 const frusMiss = rows.filter(r => !r.okFrus);
 console.log("frustration misses:", frusMiss.length);
 frusMiss.forEach(r => console.log("  #" + r.i, "expect_frus=" + r.truth_frustrated, "got_frus=" + r.frus, "|", r.line.slice(0, 90)));
-
-fs.writeFileSync(path.join(__dirname, "rule_results.json"), JSON.stringify({
-  category_accuracy: cats / n, frustration_accuracy: frus / n, rows
-}, null, 2));

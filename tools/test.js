@@ -84,5 +84,4 @@ console.log("Delgado:", JSON.stringify(byKey("Delgado Insurance Group")));
 console.log("Glow:", JSON.stringify(byKey("Glow Wealth Partners")));
 
 console.log(`\n${passed} passed, ${failed} failed.`);
-fs.writeFileSync(path.join(__dirname, "report.json"), JSON.stringify(rep, null, 1));
-console.log("report written to tools/report.json");
+if (failed) process.exit(1);
