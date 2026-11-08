@@ -1,0 +1,702 @@
+{
+  "pack_id": "205",
+  "your_name": "Faizan Naeem",
+  "your_email": "FaizanNaeem7799@gmail.com",
+  "live_link": "",
+  "video_link": "",
+  "code_or_files_link": "",
+  "client_count": 29,
+  "clients": [
+    {
+      "name": "ABC Home Care",
+      "other_names_used_in_the_data": [
+        "Ivy Khan"
+      ],
+      "emails": [
+        "ivy@abchomecare.com"
+      ],
+      "phones": [
+        "817-555-0156"
+      ]
+    },
+    {
+      "name": "Bloom Family Therapy",
+      "other_names_used_in_the_data": [
+        "Bloom Therapy",
+        "Hannah Becker",
+        "Dr. Hannah Becker"
+      ],
+      "emails": [
+        "hbecker@bloomfamilytherapy.com"
+      ],
+      "phones": [
+        "817-555-0139"
+      ]
+    },
+    {
+      "name": "Bold & Brave Podcast",
+      "other_names_used_in_the_data": [
+        "Bold and Brave",
+        "B&B Podcast",
+        "Megan Ramirez"
+      ],
+      "emails": [
+        "megan@boldandbrave.fm",
+        "megan.ramirez.mail@gmail.com"
+      ],
+      "phones": [
+        "972-555-0115"
+      ]
+    },
+    {
+      "name": "Brightwater",
+      "other_names_used_in_the_data": [
+        "Brightwater Church",
+        "Brightwater DFW",
+        "Brightwater Media Team",
+        "Andre Moore",
+        "Pastor Andre Moore"
+      ],
+      "emails": [
+        "media@brightwaterdfw.org"
+      ],
+      "phones": [
+        "214-555-0161"
+      ]
+    },
+    {
+      "name": "Brooks Auto Detailing",
+      "other_names_used_in_the_data": [
+        "Brooks Auto",
+        "Brooks Detailing",
+        "Carlos Brooks"
+      ],
+      "emails": [
+        "carlos.brooks.detail@gmail.com"
+      ],
+      "phones": [
+        "817-555-0176"
+      ]
+    },
+    {
+      "name": "Copperline Physical Therapy",
+      "other_names_used_in_the_data": [
+        "Copperline PT",
+        "Angela Ortiz"
+      ],
+      "emails": [
+        "aortiz@copperlineptdallas.com"
+      ],
+      "phones": [
+        "214-555-0134"
+      ]
+    },
+    {
+      "name": "Cypress Gym",
+      "other_names_used_in_the_data": [
+        "Cypress",
+        "Cypress Gym TX",
+        "Jared Lee"
+      ],
+      "emails": [
+        "jared@cypressgym.co"
+      ],
+      "phones": [
+        "817-555-0193"
+      ]
+    },
+    {
+      "name": "Delgado Insurance Group",
+      "other_names_used_in_the_data": [
+        "Delgado Insurance",
+        "Delgado Ins",
+        "Victor Delgado",
+        "Grace Delgado"
+      ],
+      "emails": [
+        "victor@delgadoinsures.com",
+        "grace@delgadoinsures.com"
+      ],
+      "phones": [
+        "214-555-0190",
+        "469-555-0141"
+      ]
+    },
+    {
+      "name": "Evergreen Builders",
+      "other_names_used_in_the_data": [
+        "Evergreen",
+        "Evergreen & Co Builders",
+        "Evergreen Builders LLC",
+        "Greg Adeyemi"
+      ],
+      "emails": [
+        "greg@evergreen.build"
+      ],
+      "phones": [
+        "972-555-0187"
+      ]
+    },
+    {
+      "name": "Fischer Dental",
+      "other_names_used_in_the_data": [
+        "Fischer Dental PLLC",
+        "Ivy Fischer",
+        "Dr. Ivy Fischer",
+        "Dr Fischer"
+      ],
+      "emails": [
+        "ivy@fischerdental.com",
+        "ivy@fischerdental.con"
+      ],
+      "phones": [
+        "972-555-0132"
+      ]
+    },
+    {
+      "name": "Fischer Family Law",
+      "other_names_used_in_the_data": [
+        "Fischer Law",
+        "Fischer Family Law PLLC",
+        "Simone Fischer"
+      ],
+      "emails": [
+        "sfischer@fischerfamilylaw.com"
+      ],
+      "phones": [
+        "469-555-0137"
+      ]
+    },
+    {
+      "name": "Fischer's Auto Spa",
+      "other_names_used_in_the_data": [
+        "Fischer's Auto",
+        "Sam Fischer"
+      ],
+      "emails": [
+        "sam@fischersautospa.com"
+      ],
+      "phones": [
+        "817-555-0197"
+      ]
+    },
+    {
+      "name": "Glow Wealth Partners",
+      "other_names_used_in_the_data": [
+        "Glow WP",
+        "Alan Whitfield"
+      ],
+      "emails": [
+        "awhitfield@glowwp.com"
+      ],
+      "phones": [
+        "817-555-0124"
+      ]
+    },
+    {
+      "name": "Hector's Roofing",
+      "other_names_used_in_the_data": [
+        "Hectors Roofing",
+        "Hector's Roofing LLC",
+        "Hector Whitfield",
+        "Hector Adeyemi"
+      ],
+      "emails": [
+        "hector@hectorsroofingtx.com"
+      ],
+      "phones": [
+        "214-555-0171",
+        "214-555-0195"
+      ]
+    },
+    {
+      "name": "Hillcrest Athletics",
+      "other_names_used_in_the_data": [
+        "Hillcrest",
+        "Hillcrest Fit",
+        "Hillcrest Fitness",
+        "Mia Romero"
+      ],
+      "emails": [
+        "mia@hillcrestathletics.com",
+        "mia@hillcrestfit.co"
+      ],
+      "phones": [
+        "817-555-0151"
+      ]
+    },
+    {
+      "name": "Kim Dental",
+      "other_names_used_in_the_data": [
+        "Kim Dental PLLC",
+        "Dana Kim",
+        "Dr. Dana Kim",
+        "Dr Kim"
+      ],
+      "emails": [
+        "office@kimdental.com"
+      ],
+      "phones": [
+        "972-555-0175"
+      ]
+    },
+    {
+      "name": "Malik Law Firm",
+      "other_names_used_in_the_data": [
+        "Malik",
+        "Malik Law",
+        "Malik Law Firm PLLC",
+        "Hector Malik"
+      ],
+      "emails": [
+        "hmalik@maliklaw.com"
+      ],
+      "phones": [
+        "214-555-0104"
+      ]
+    },
+    {
+      "name": "Metroplex Makers Podcast",
+      "other_names_used_in_the_data": [
+        "Metroplex Makers",
+        "Derek Cho"
+      ],
+      "emails": [
+        "derek@metroplexmakers.fm"
+      ],
+      "phones": [
+        "214-555-0183"
+      ]
+    },
+    {
+      "name": "Oak Cliff Realty",
+      "other_names_used_in_the_data": [
+        "Oak Cliff Realty LLC",
+        "Lucia Kim"
+      ],
+      "emails": [
+        "lucia@oakcliffrealty.com"
+      ],
+      "phones": [
+        "817-555-0135"
+      ]
+    },
+    {
+      "name": "Oakcliff Realty Group",
+      "other_names_used_in_the_data": [
+        "Oakcliff RG",
+        "Alan Delgado"
+      ],
+      "emails": [
+        "alan@oakcliffrg.com"
+      ],
+      "phones": [
+        "817-555-0171"
+      ]
+    },
+    {
+      "name": "Parkside Builders",
+      "other_names_used_in_the_data": [
+        "Parkside",
+        "Parkside & Co Builders",
+        "Parkside Builders LLC",
+        "Hector Whitfield"
+      ],
+      "emails": [
+        "hector@parkside.build"
+      ],
+      "phones": [
+        "469-555-0169"
+      ]
+    },
+    {
+      "name": "Ridgeway Barbershop",
+      "other_names_used_in_the_data": [
+        "Ridgeway Barbers",
+        "Ethan Becker"
+      ],
+      "emails": [
+        "ethan@ridgewaybarbers.com"
+      ],
+      "phones": [
+        "817-555-0106"
+      ]
+    },
+    {
+      "name": "Riverbend Coffee Roasters",
+      "other_names_used_in_the_data": [
+        "Riverbend Coffee",
+        "Riverbend Roasters",
+        "Simone Chen"
+      ],
+      "emails": [
+        "simone@riverbendcoffee.com"
+      ],
+      "phones": [
+        "972-555-0131"
+      ]
+    },
+    {
+      "name": "Rosewood Pediatrics",
+      "other_names_used_in_the_data": [
+        "Rosewood Peds",
+        "Maria Zamora"
+      ],
+      "emails": [
+        "mzamora@rosewoodpeds.com"
+      ],
+      "phones": [
+        "972-555-0161"
+      ]
+    },
+    {
+      "name": "Sage Bridal Boutique",
+      "other_names_used_in_the_data": [
+        "Sage Bridal",
+        "Rosa Fischer"
+      ],
+      "emails": [
+        "rosa@sagebridal.com"
+      ],
+      "phones": [
+        "214-555-0168"
+      ]
+    },
+    {
+      "name": "Silverleaf Chiropractic",
+      "other_names_used_in_the_data": [
+        "Silverleaf Chiro",
+        "Dr. Moore",
+        "Reggie Moore"
+      ],
+      "emails": [
+        "drmoore@silverleafchiro.com"
+      ],
+      "phones": [
+        "817-555-0192"
+      ]
+    },
+    {
+      "name": "The Keystone Lab",
+      "other_names_used_in_the_data": [
+        "Keystone Lab",
+        "Keystonelab Coffee",
+        "Maria Daniels"
+      ],
+      "emails": [
+        "maria@thekeystonelab.coffee"
+      ],
+      "phones": [
+        "817-555-0152"
+      ]
+    },
+    {
+      "name": "Trinity Med Spa",
+      "other_names_used_in_the_data": [
+        "Trinity",
+        "Trinity Medspa",
+        "Trinity Med Spa - Frisco",
+        "Trinity Med Spa - Plano",
+        "Renee Nguyen"
+      ],
+      "emails": [
+        "renee@trinitymedspa.com"
+      ],
+      "phones": [
+        "972-555-0167"
+      ]
+    },
+    {
+      "name": "Vista Med Spa",
+      "other_names_used_in_the_data": [
+        "Vista",
+        "Vista Medspa",
+        "Vista Med Spa - Frisco",
+        "Vista Med Spa - Plano",
+        "Rosa Castillo"
+      ],
+      "emails": [
+        "rosa@vistamedspa.com"
+      ],
+      "phones": [
+        "469-555-0144"
+      ]
+    }
+  ],
+  "payers_who_are_not_clients": [
+    {
+      "name": "Fieldhouse Marketing",
+      "pays_for": [
+        "Rosewood Pediatrics",
+        "Copperline Physical Therapy"
+      ]
+    }
+  ],
+  "overdue": [
+    {
+      "client": "Cypress Gym",
+      "invoice": "INV-1094",
+      "amount_owed": 900,
+      "days_late": 49
+    },
+    {
+      "client": "Oakcliff Realty Group",
+      "invoice": "INV-1103",
+      "amount_owed": 1500,
+      "days_late": 37
+    },
+    {
+      "client": "Ridgeway Barbershop",
+      "invoice": "INV-1113",
+      "amount_owed": 900,
+      "days_late": 27
+    },
+    {
+      "client": "Delgado Insurance Group",
+      "invoice": "INV-1120",
+      "amount_owed": 2500,
+      "days_late": 21
+    },
+    {
+      "client": "ABC Home Care",
+      "invoice": "INV-1123",
+      "amount_owed": 1500,
+      "days_late": 20
+    },
+    {
+      "client": "Hector's Roofing",
+      "invoice": "INV-1126",
+      "amount_owed": 450,
+      "days_late": 15
+    },
+    {
+      "client": "Riverbend Coffee Roasters",
+      "invoice": "INV-1129",
+      "amount_owed": 900,
+      "days_late": 14
+    },
+    {
+      "client": "Parkside Builders",
+      "invoice": "INV-1132",
+      "amount_owed": 1500,
+      "days_late": 13
+    },
+    {
+      "client": "Evergreen Builders",
+      "invoice": "INV-1140",
+      "amount_owed": 1500,
+      "days_late": 1
+    }
+  ],
+  "overdue_total": 11650,
+  "we_owe": [
+    {
+      "client": "Vista Med Spa",
+      "amount": 900,
+      "why": "Payment P5092 (14/08/2026) duplicate payment: extra $900 beyond what INV-1079 was for. Refund or ask the owner how to credit it."
+    }
+  ],
+  "never_billed": [
+    {
+      "client": "Riverbend Coffee Roasters",
+      "booking_id_or_month": "B058 (23 Jun 2026, Reels Pack)",
+      "amount": 900
+    },
+    {
+      "client": "Riverbend Coffee Roasters",
+      "booking_id_or_month": "B130 (7 Sep 2026, Reels Pack)",
+      "amount": 900
+    },
+    {
+      "client": "Fischer Family Law",
+      "booking_id_or_month": "B153 (29 Sep 2026, Reels Pack)",
+      "amount": 900
+    }
+  ],
+  "never_billed_total": 2700,
+  "billing_tool_is_wrong": [
+    {
+      "invoice": "INV-1065",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5082 (04/08/2026, Zelle) lands on exactly B&B Podcast for $300.00 (B064 Podcast Studio 2hr); the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1070",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5082 (04/08/2026, Zelle) lands on exactly Megan Ramirez for $300.00; the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1082",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5082 (04/08/2026, Zelle) lands on exactly Megan Ramirez for $300.00 (Podcast Studio 2hr 7/22); the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1085",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5071 (26/07/2026, Zelle) lands on exactly Fischer Dental PLLC for $1500.00; the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1088",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5082 (04/08/2026, Zelle) lands on exactly Bold & Brave Podcast for $300.00; the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1105",
+      "tool_says": "unpaid",
+      "truth": "really paid — the money is in the bank",
+      "how_you_know": "P5098 (24/08/2026, card) lands on exactly Hillcrest Athletics for $900.00 (B111 Reels Pack); the tool never flipped the status."
+    },
+    {
+      "invoice": "INV-1094",
+      "tool_says": "paid",
+      "truth": "no payment on record — the money never arrived (this is the worst debt: 49 days overdue)",
+      "how_you_know": "No payment in payments.csv references INV-1094, and no blank-referenced Cypress Gym payment matches $900; meanwhile the invoice is marked paid, hiding a real $900 debt until it got 49 days late."
+    },
+    {
+      "invoice": "INV-1160",
+      "tool_says": "void invoice, but still shown in the open-invoice ledger as an active $1,500 bill",
+      "truth": "destructive double-numbering: it is a duplicate of INV-1043, which was paid via P5047 on 2026-06-12",
+      "how_you_know": "INV-1043 and INV-1160 are both Fischer Dental PLLC, both $1,500, issued 2026-06-10, due 2026-06-24; INV-1043 carries payment P5047. Any 'total owed' including INV-1160 overstates debt by $1,500."
+    },
+    {
+      "invoice": "INV-1091",
+      "tool_says": "paid in full at $2,250",
+      "truth": "the August retainer was under-billed by $250 — every other month (INV-1034, 1062, 1122, 1154) bills $2,500, so $250 of delivered retainer work was never invoiced",
+      "how_you_know": "All five 'Monthly retainer' invoices compare side by side: June/July/Sep/Oct are $2,500, August alone is $2,250 (P5089 paid $2,250)."
+    }
+  ],
+  "lost_requests": [
+    {
+      "video_id": "V006",
+      "request_date": "2026-04-26",
+      "came_by": "whatsapp",
+      "why_it_was_lost": "Fischer Dental's stream of asks crossed three videos and two channels: 4/26 WhatsApp ('take out the part in why floss matters where I talk about prices'), 4/28 email ('add our phone number at the end of the one we shot last week' — never resolvable to a video), then on 5/6 'Still not fixed on first visit tour. A little frustrated honestly.' The earliest request of the whole year is the template for everything that follows."
+    },
+    {
+      "video_id": "V100",
+      "request_date": "2026-05-01",
+      "came_by": "email",
+      "why_it_was_lost": "Hector's Roofing emailed 5/1 'cut the first 3 seconds of the one we shot last week' — a video name he doesn't give; 74 days later (7/14) he wrote 'Did anyone see my message about storm damage tips? It's not fixed', and on 9/14 had to ask a third time. The vague references were never re-resolved to the actual video on the board."
+    },
+    {
+      "video_id": "V056",
+      "request_date": "2026-05-03",
+      "came_by": "whatsapp",
+      "why_it_was_lost": "Trinity Med Spa WhatsApped 5/3 'use our brand color teal on the one we shot last week' — again, no video named; on 7/28 the client concluded 'This is the second time I ask. hydrafacial reveal is still wrong.' WhatsApp input and vague references are the worst combination: neither the request nor the video ever got pinned."
+    },
+    {
+      "video_id": "V027",
+      "request_date": "2026-05-16",
+      "came_by": "whatsapp",
+      "why_it_was_lost": "Malik Law WhatsApped on 5/16 'use our brand color navy on divorce timeline' — the request eventually appears as a bare board note ('Brand color navy' on V027) but the video kept being shipped wrong; on 10/4 they escalated 'Divorce timeline still has the same problem. I already told you about this' — 141 days open."
+    },
+    {
+      "video_id": "V094",
+      "request_date": "2026-06-17",
+      "came_by": "email",
+      "why_it_was_lost": "Rosewood Pediatrics emailed 'take out the part in back pain myths where I talk about prices'; on 6/26 'Still not fixed… frustrated', and on 8/20 again asking to blur an unreleased client's face (which only became a bare note 'Blur client face'). Billed via Fieldhouse Marketing, so the world of their feedback lives in a personal inbox that never reaches the board."
+    },
+    {
+      "video_id": "V089",
+      "request_date": "2026-06-16",
+      "came_by": "whatsapp",
+      "why_it_was_lost": "Delgado Insurance WhatsApped on 6/16 asking for 'a calmer song' on client story; on 6/28 'Client story still has the same problem. I already told you about this.' The video's board row (V089) has no note about music at all."
+    },
+    {
+      "video_id": "V105",
+      "request_date": "2026-06-28",
+      "came_by": "email",
+      "why_it_was_lost": "Ridgeway Barbershop asked about the sale-promo video on 6/28; on 7/6 they escalated 'Sale promo still has the same problem. I already told you about this.'"
+    },
+    {
+      "video_id": "V046",
+      "request_date": "2026-06-29",
+      "came_by": "email",
+      "why_it_was_lost": "Sage Bridal asked about styling tips on 6/29, escalated 7/6, and AGAIN on 7/31 in Spanish — 'Sale promo sigue igual. Ya les había dicho.' (and again 9/28). Spanish-language requests were never acknowledged, so the fix could never close."
+    },
+    {
+      "video_id": "V131",
+      "request_date": "2026-07-23",
+      "came_by": "email",
+      "why_it_was_lost": "Cypress Gym reported 7/23 that the class-schedule video is still wrong; on 8/3 'This is the second time I ask. class schedule is still wrong' — and on 8/22 a third escalation on member story."
+    },
+    {
+      "video_id": "V168",
+      "request_date": "2026-07-24",
+      "came_by": "email",
+      "why_it_was_lost": "The Keystone Lab asked on 7/24 to 'use the other shot, the one outside, not inside' on the bean-origin-story video; on 8/6 'Did anyone see my message about bean origin story? It's not fixed' — the default editor failure-silence had to be broken twice more (9/15 WhatsApp, 9/25 'latte art' repeat)."
+    },
+    {
+      "video_id": "V173",
+      "request_date": "2026-07-25",
+      "came_by": "instagram",
+      "why_it_was_lost": "Fischer's Auto Spa's fix requests were scattered across email (ceramic coating 7/25), Instagram DM (7/26 Tesla detail) and WhatsApp (8/9); none exist on the board for those videos, so on 8/9 Sam had to repeat himself on WhatsApp: 'still has the same problem. I already told you about this.'"
+    },
+    {
+      "video_id": "V185",
+      "request_date": "2026-07-29",
+      "came_by": "email",
+      "why_it_was_lost": "Fischer Family Law asked 7/29 about the divorce timeline; on 8/3 'second time I ask. divorce timeline is still wrong', on 9/22 a new repeat about meet-the-attorney, and on 10/4 again — three escalations on the same law firm in one quarter."
+    }
+  ],
+  "lost_requests_root_causes": [
+    "Requests arrive on 5 channels (email, WhatsApp, Instagram DM, voice note, website form) but there is no single inbox — 5 of the 12 thread examples never even entered a tracked place.",
+    "Messages are never linked to a video: only a minority of the 364 board rows carry notes, and requests like 'the one we shot last week' are never resolved to a video_id.",
+    "Non-English requests (Spanish) were never translated or acknowledged, so a Sage Bridal fix stayed open for a full quarter with zero action.",
+    "There is no closed-loop confirmation — nobody ever replies 'done', and silence hid the same broken video for up to 141 days (Malik Law's navy brand color).",
+    "Voice notes and Instagram DMs are invisible to editors sitting in the board spreadsheet; WhatsApp/DM threads were consistently the ones still broken at escalation time.",
+    "Agency-billed clients (Fieldhouse's Rosewood + Copperline) have a second layer of indirection — their feedback goes to the agency, not the board."
+  ],
+  "lost_requests_started_getting_worse_in": "2026-07",
+  "never_replied_leads": [
+    "L011",
+    "L032",
+    "L034",
+    "L037",
+    "L045",
+    "L053",
+    "L070",
+    "L073",
+    "L076",
+    "L088",
+    "L089",
+    "L091",
+    "L093",
+    "L100"
+  ],
+  "most_likely_to_leave": {
+    "client": "Delgado Insurance Group",
+    "evidence": [
+      "Grace Delgado filled the website form on 2026-09-30: 'We would like to talk about our contract and whether we continue.'",
+      "She followed up on 2026-10-03: 'Following up. We need to talk about the contract this week.' — still no reply to either.",
+      "This comes after months of unresolved fixes: Victor recorded a voice note on 9/1 asking for the full name 'Delgado Insurance Group' in captions; the videos STILL read 'Delgado Insurance', and on 9/11 they wrote 'Not happy'.",
+      "Their September retainer (INV-1120, $2,500, due 9/15) is 21 days overdue with nothing in the bank."
+    ],
+    "what_to_do_this_week": "Call Grace/Victor today and before the promised 'contract talk this week': acknowledge the name-spelling failure by name, confirm the September retainer is being corrected in the billing tool (it says unpaid), re-deliver the two videos with the full corrected brand name and bigger captions within 48 hours, and ask what would make the contract worth renewing."
+  },
+  "best_marketing_channel": {
+    "channel": "LinkedIn",
+    "why": "LinkedIn is the most profitable channel on gross margin: $17,556 left after $14,194 of studio time ($40/hour) and editor time, on $31,750 actually collected (4 of 11 leads, 36% won). Referral closes more often (8 of 11, 73%) and brought $29,850, but those clients cost more to produce, so profit is $11,312. Website form is the worst closer (12%). This is not return on ad spend: the files contain no ad invoices, so a free channel could still be the better buy."
+  },
+  "what_this_data_cannot_tell_us": [
+    "Whether the payments.csv export is complete — 'no payment on record' could also mean bank transfers that bypassed whatever tool produced this file.",
+    "Why leads never replied: first_reply is blank for 14 leads, but we can't see whether the studio never wrote, wrote and bounced, or replied on an untracked channel.",
+    "Actual contract terms for retainers — $2,500/month is inferred from consistency across 5 invoices, not from a contract document; INV-1091's $2,250 could theoretically be a negotiated discount (flagged, not assumed as cash still owed).",
+    "Ad spend. Channel profit here is cash collected minus studio hours and editor hours. Without ad invoices, Referral could still beat LinkedIn on return on spend.",
+    "Which team member failed which step — messages don't say who read and dropped them, and the board doesn't log who updated notes.",
+    "Whether the tool's 'paid' figures match a real bank feed; we only have the payments.csv as proxy for the bank.",
+    "Whether refunds/chargebacks happened outside this export window (e.g., Vista's $900 duplicate may already have been refunded off-record).",
+    "Anything about video quality or creative satisfaction — ratings on the board average ~4.x but there is no survey data behind them.",
+    "Declined/lost-lead reasons: leads.csv has a status but no reason field, so 'lost' ≠ 'rejected us' vs 'never answered them'."
+  ],
+  "monday_top_3": [
+    "Call Delgado Insurance first thing (Grace promised a 'contract talk this week'): admit the name-caption failure, re-deliver two videos with 'Delgado Insurance Group' + bigger captions within 48h, fix September's retainer handling in the billing tool, and ask Grace what would make renewal make sense.",
+    "Sweep the money in one pass: refund Vista's $900 double payment, re-issue the $250 Malik's August retainer was short, keep void INV-1160 out of any total, bill the $2,700 of shoots with no invoice, flip the 6 invoices the tool still calls unpaid, and chase the 9 real overdue invoices ($11,650), oldest first.",
+    "Create one request inbox with a 24h SLA: a tiny form (or shared inbox) that siphons email, WhatsApp, Instagram DMs and voice notes into production_BOARD rows keyed by video_id, then closes the loop with the client. Nothing ships without a 'this fix is done' confirmation message — silence is why Glow left in June ('my notes keep getting missed') and Delgado is leaving now."
+  ]
+}

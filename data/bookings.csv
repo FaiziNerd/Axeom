@@ -1,0 +1,175 @@
+booking_id,date,client_name,email,service,status,price
+B001,04/01/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$300
+B002,04/06/2026,Megan Ramirez,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B003,04/09/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$300
+B004,04/10/2026,Evergreen Builders,greg@evergreen.build,Content Day,completed,"$1,500"
+B005,04/13/2026,Fischer Dental PLLC,ivy@fischerdental.com,Content Day,completed,"$1,500"
+B006,04/13/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B007,04/15/2026,Bold and Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B008,04/15/2026,Hector's Roofing,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B009,04/20/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$300
+B010,04/20/2026,Trinity Med Spa - Frisco,renee@trinitymedspa.com,Content Day,completed,"$1,500"
+B011,04/27/2026,Bold & Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B012,04/27/2026,Sage Bridal Boutique,rosa@sagebridal.com,Reels Pack,completed,900
+B013,04/27/2026,Glow Wealth Partners,awhitfield@glowwp.com,Retainer Shoot,completed,$0
+B014,04/28/2026,Metroplex Makers Podcast,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B015,04/30/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$300
+B016,05/07/2026,Glow WP,awhitfield@glowwp.com,Retainer Shoot,completed,0
+B017,05/08/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,300
+B018,05/08/2026,Bold and Brave,megan.ramirez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B019,05/08/2026,Malik,hmalik@maliklaw.com,Retainer Shoot,completed,0
+B020,05/11/2026,Hillcrest Fitness,mia@hillcrestfit.co,Reels Pack,completed,$900
+B021,05/12/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B022,05/12/2026,Silverleaf Chiropractic,drmoore@silverleafchiro.com,Retainer Shoot,completed,$0
+B023,05/13/2026,Vista,rosa@vistamedspa.com,Reels Pack,completed,900
+B024,05/14/2026,Hector's Roofing LLC,hector@hectorsroofingtx.com,Reels Pack,completed,900
+B025,05/18/2026,Brightwater Church,media@brightwaterdfw.org,Podcast Studio 2hr,completed,300
+B026,05/20/2026,Bold & Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B027,05/25/2026,Rosa Fischer,rosa@sagebridal.com,Reels Pack,completed,900
+B028,05/25/2026,Ridgeway Barbershop,ethan@ridgewaybarbers.com,Reels Pack,completed,900
+B029,05/26/2026,Metroplex Makers,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B030,05/26/2026,Evergreen,greg@evergreen.build,Content Day,completed,"$1,500"
+B031,05/26/2026,Trinity Med Spa - Frisco,renee@trinitymedspa.com,Content Day,completed,"$1,500"
+B032,05/26/2026,Delgado Insurance Group,victor@delgadoinsures.com,Retainer Shoot,completed,$0
+B033,05/27/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$300
+B034,05/28/2026,Lucia Kim,lucia@oakcliffrealty.com,Content Day,completed,1500
+B035,05/29/2026,Bold & Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B036,06/02/2026,Dr Kim,office@kimdental.com,Content Day,completed,"$1,500"
+B037,06/03/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B038,06/05/2026,Megan Ramirez,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B039,06/08/2026,Dr. Ivy Fischer,ivy@fischerdental.com,Content Day,completed,"$1,500"
+B040,06/08/2026,Hillcrest,mia@hillcrestfit.co,Reels Pack,completed,900
+B041,06/08/2026,Dr. Moore,drmoore@silverleafchiro.com,Retainer Shoot,completed,0
+B042,06/09/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B043,06/09/2026,Glow WP,awhitfield@glowwp.com,Retainer Shoot,completed,$0
+B044,06/11/2026,Fischer Law,sfischer@fischerfamilylaw.com,Reels Pack,completed,$900
+B045,06/11/2026,Megan Ramirez,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B046,06/11/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B047,06/11/2026,Delgado Ins,victor@delgadoinsures.com,Retainer Shoot,completed,$0
+B048,06/12/2026,Fieldhouse - Rosewood,ivy@fieldhousemktg.com,Reels Pack,completed,900
+B049,06/15/2026,Malik,hmalik@maliklaw.com,Retainer Shoot,completed,$0
+B050,06/16/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B051,06/17/2026,Bold & Brave Podcast,megan.ramirez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B052,06/22/2026,Hector's Roofing LLC,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B053,06/22/2026,Vista,rosa@vistamedspa.com,Reels Pack,completed,$900
+B054,06/22/2026,Ethan Becker,ethan@ridgewaybarbers.com,Reels Pack,completed,$900
+B055,06/22/2026,Parkside & Co Builders,hector@parkside.build,Content Day,completed,"$1,500"
+B056,06/23/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B057,06/23/2026,Sage Bridal Boutique,rosa@sagebridal.com,Reels Pack,completed,900
+B058,06/23/2026,Riverbend Coffee Roasters,simone@riverbendcoffee.com,Reels Pack,completed,900
+B059,06/26/2026,Megan Ramirez,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B060,06/29/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B061,07/01/2026,Evergreen Builders,greg@evergreen.build,Content Day,completed,1500
+B062,07/01/2026,Copperline PT Dallas,ivy@fieldhousemktg.com,Reels Pack,completed,900
+B063,07/02/2026,Brightwater Church,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B064,07/06/2026,Bold & Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B065,07/06/2026,Trinity Med Spa,renee@trinitymedspa.com,Content Day,completed,"$1,500"
+B066,07/06/2026,Cypress,jared@cypressgym.co,Reels Pack,completed,900
+B067,07/08/2026,Silverleaf Chiro,drmoore@silverleafchiro.com,Retainer Shoot,completed,0
+B068,07/09/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B069,07/09/2026,Malik,hmalik@maliklaw.com,Retainer Shoot,completed,$0
+B070,07/10/2026,Dr. Dana Kim,office@kimdental.com,Content Day,completed,"$1,500"
+B071,07/13/2026,Hillcrest Fit,mia@hillcrestfit.co,Reels Pack,completed,900
+B072,07/13/2026,Victor Delgado,victor@delgadoinsures.com,Retainer Shoot,completed,0
+B073,07/14/2026,Megan Ramirez,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B074,07/14/2026,Metroplex Makers Podcast,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B075,07/14/2026,Fieldhouse - Rosewood,ivy@fieldhousemktg.com,Reels Pack,completed,900
+B076,07/16/2026,Lucia Kim,lucia@oakcliffrealty.com,Content Day,completed,1500
+B077,07/16/2026,Brightwater Media Team,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B078,07/16/2026,Hectors Roofing,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B079,07/16/2026,Dr. Hannah Becker,hbecker@bloomfamilytherapy.com,Content Day,completed,1500
+B080,07/17/2026,Sage Bridal Boutique,rosa@sagebridal.com,Reels Pack,completed,900
+B081,07/17/2026,Keystone Lab,maria@thekeystonelab.coffee,Reels Pack,completed,900
+B082,07/20/2026,Fischer's Auto,sam@fischersautospa.com,Reels Pack,completed,900
+B083,07/20/2026,Vista Med Spa - Frisco,rosa@vistamedspa.com,Reels Pack,completed,$900
+B084,07/20/2026,Ethan Becker,ethan@ridgewaybarbers.com,Reels Pack,completed,900
+B085,07/21/2026,Dr Fischer,ivy@fischerdental.com,Content Day,completed,1500
+B086,07/21/2026,Fischer Family Law,sfischer@fischerfamilylaw.com,Reels Pack,completed,$900
+B087,07/22/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B088,07/22/2026,Bold and Brave,megan.ramirez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B089,07/27/2026,Copperline PT,aortiz@copperlineptdallas.com,Reels Pack,completed,$900
+B090,07/28/2026,Metroplex Makers,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B091,07/28/2026,Parkside Builders,hector@parkside.build,Content Day,completed,"$1,500"
+B092,07/29/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B093,07/29/2026,Bold and Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B094,07/29/2026,Riverbend Coffee Roasters,simone@riverbendcoffee.com,Reels Pack,completed,$900
+B095,08/04/2026,Bold and Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B096,08/04/2026,Cypress Gym,jared@cypressgym.co,Reels Pack,completed,$900
+B097,08/06/2026,Hectors Roofing,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B098,08/07/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B099,08/07/2026,Delgado Insurance,victor@delgadoinsures.com,Retainer Shoot,completed,0
+B100,08/10/2026,Evergreen & Co Builders,greg@evergreen.build,Content Day,completed,"$1,500"
+B101,08/10/2026,Malik,hmalik@maliklaw.com,Retainer Shoot,completed,$0
+B102,08/10/2026,Sage Bridal Boutique,rosa@sagebridal.com,Reels Pack,completed,900
+B103,08/10/2026,Rosewood Peds,ivy@fieldhousemktg.com,Reels Pack,completed,$900
+B104,08/11/2026,Silverleaf Chiropractic,drmoore@silverleafchiro.com,Retainer Shoot,completed,$0
+B105,08/12/2026,The Keystone Lab,maria@thekeystonelab.coffee,Reels Pack,completed,$900
+B106,08/14/2026,Fischer's Auto Spa,sam@fischersautospa.com,Reels Pack,completed,$900
+B107,08/14/2026,Oakcliff RG,alan@oakcliffrg.com,Content Day,completed,"$1,500"
+B108,08/17/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B109,08/17/2026,Bold and Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,$300
+B110,08/17/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B111,08/17/2026,Hillcrest Athletics,mia@hillcrestathletics.com,Reels Pack,completed,900
+B112,08/20/2026,Kim Dental PLLC,office@kimdental.com,Content Day,completed,1500
+B113,08/20/2026,Vista,rosa@vistamedspa.com,Reels Pack,completed,900
+B114,08/21/2026,Trinity Med Spa,renee@trinitymedspa.com,Content Day,completed,1500
+B115,08/24/2026,Bold & Brave Podcast,megan.ramirez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B116,08/24/2026,Hector's Roofing,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B117,08/24/2026,Copperline PT Dallas,ivy@fieldhousemktg.com,Reels Pack,completed,$900
+B118,08/25/2026,Ridgeway Barbershop,ethan@ridgewaybarbers.com,Reels Pack,completed,900
+B119,08/26/2026,Brightwater Church,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B120,08/28/2026,Simone Fischer,sfischer@fischerfamilylaw.com,Reels Pack,completed,$900
+B121,08/28/2026,Brooks Detailing,carlos.brooks.detail@gmail.com,Content Day,completed,1500
+B122,08/31/2026,Metroplex Makers Podcast,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B123,08/31/2026,Cypress Gym TX,jared@cypressgym.co,Reels Pack,completed,900
+B124,09/01/2026,B&B Podcast,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B125,09/01/2026,ABC Home Care,ivy@abchomecare.com,Content Day,completed,1500
+B126,09/04/2026,Dr. Ivy Fischer,ivy@fischerdental.con,Content Day,completed,"$1,500"
+B127,09/04/2026,Bloom Therapy,hbecker@bloomfamilytherapy.com,Content Day,completed,"$1,500"
+B128,09/04/2026,Hector's Roofing LLC,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B129,09/07/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,225
+B130,09/07/2026,Riverbend Roasters,simone@riverbendcoffee.com,Reels Pack,completed,$900
+B131,09/07/2026,Rosewood Peds,mzamora@rosewoodpeds.com,Reels Pack,completed,900
+B132,09/08/2026,Keystonelab Coffee,maria@thekeystonelab.coffee,Reels Pack,completed,900
+B133,09/08/2026,Parkside,hector@parkside.build,Content Day,completed,"$1,500"
+B134,09/09/2026,Oak Cliff Realty LLC,lucia@oakcliffrealty.com,Content Day,completed,1500
+B135,09/09/2026,Victor Delgado,victor@delgadoinsures.com,Retainer Shoot,completed,$0
+B136,09/11/2026,Malik Law Firm PLLC,hmalik@maliklaw.com,Retainer Shoot,completed,0
+B137,09/14/2026,Brightwater Church,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B138,09/14/2026,Bold & Brave,megan@boldandbrave.fm,Podcast Studio 2hr,completed,300
+B139,09/14/2026,Sage Bridal,rosa@sagebridal.com,Reels Pack,completed,$900
+B140,09/14/2026,Hillcrest Athletics,mia@hillcrestathletics.com,Reels Pack,completed,900
+B141,09/14/2026,Silverleaf Chiro,drmoore@silverleafchiro.com,Retainer Shoot,completed,$0
+B142,09/18/2026,Metroplex Makers Podcast,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,550
+B143,09/21/2026,Evergreen Builders LLC,greg@evergreen.build,Content Day,completed,"$1,500"
+B144,09/22/2026,Fischer's Auto,sam@fischersautospa.com,Reels Pack,completed,$900
+B145,09/23/2026,Copperline Physical Therapy,aortiz@copperlineptdallas.com,Reels Pack,completed,900
+B146,09/23/2026,Lucia Kim,lucia@oakcliffrealty.com,Content Day,cancelled,1500
+B147,09/24/2026,Brightwater Church,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B148,09/24/2026,Vista Med Spa,rosa@vistamedspa.com,Reels Pack,completed,$900
+B149,09/25/2026,Bold & Brave Podcast,megan.ramirez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B150,09/25/2026,Brooks Auto Detailing,carlos.brooks.detail@gmail.com,Reels Pack,completed,900
+B151,09/28/2026,Kim Dental PLLC,office@kimdental.com,Content Day,completed,1500
+B152,09/28/2026,Ridgeway Barbershop,ethan@ridgewaybarbers.com,Reels Pack,completed,$900
+B153,09/29/2026,Fischer Family Law,sfischer@fischerfamilylaw.com,Reels Pack,completed,$900
+B154,09/29/2026,Hector's Roofing,hector@hectorsroofingtx.com,Reels Pack,completed,$900
+B155,09/29/2026,Hector Whitfield,hector@hectorsroofingtx.com,Reels Pack,completed,900
+B156,09/30/2026,Trinity Med Spa - Plano,renee@trinitymedspa.com,Content Day,completed,1500
+B157,10/02/2026,Oakcliff Realty Group,alan@oakcliffrg.com,Content Day,completed,1500
+B158,10/02/2026,Metroplex Makers,derek@metroplexmakers.fm,Podcast Studio 4hr,completed,$550
+B159,10/02/2026,Lucia Kim,lucia@oakcliffrealty.com,Content Day,completed,"$1,500"
+B160,10/05/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,completed,$225
+B161,10/05/2026,Rosewood Pediatrics,mzamora@rosewoodpeds.com,Reels Pack,completed,$900
+B162,10/06/2026,Bold & Brave Podcast,megan@boldandbrave.fm,Podcast Studio 2hr,upcoming,300
+B163,10/07/2026,Delgado Ins,victor@delgadoinsures.com,Retainer Shoot,upcoming,$0
+B164,10/08/2026,Jared Lee,jared@cypressgym.co,Reels Pack,upcoming,900
+B165,10/09/2026,Dr. Ivy Fischer,ivy@fischerdental.com,Content Day,upcoming,"$1,500"
+B166,10/12/2026,Silverleaf Chiropractic,drmoore@silverleafchiro.com,Retainer Shoot,upcoming,$0
+B167,10/12/2026,Riverbend Coffee Roasters,simone@riverbendcoffee.com,Reels Pack,upcoming,$900
+B168,10/13/2026,Malik Law Firm PLLC,hmalik@maliklaw.com,Retainer Shoot,upcoming,0
+B169,10/15/2026,Brightwater DFW,media@brightwaterdfw.org,Podcast Studio 2hr,upcoming,$225
+B170,10/16/2026,Hillcrest,mia@hillcrestathletics.com,Reels Pack,upcoming,$900
+B171,10/19/2026,Bold & Brave Podcast,megan@boldandbrave.fm,Podcast Studio 2hr,upcoming,$300
+B172,10/19/2026,Derek Cho,derek@metroplexmakers.fm,Podcast Studio 4hr,upcoming,$550
+B173,10/19/2026,Rosa Fischer,rosa@sagebridal.com,Reels Pack,upcoming,900
+B174,10/19/2026,The Keystone Lab,maria@thekeystonelab.coffee,Reels Pack,upcoming,900

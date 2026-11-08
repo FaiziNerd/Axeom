@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Axeom OS — what to do first</title>
+<meta name="theme-color" content="#101418">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">Axeom&nbsp;OS</div>
+  <div class="asof" id="asof"></div>
+</header>
+
+<main id="view" class="view"></main>
+
+<nav class="bottomnav" id="bottomnav">
+  <button data-tab="home" class="on">Today</button>
+  <button data-tab="clients">Clients</button>
+  <button data-tab="money">Money</button>
+  <button data-tab="upload">New&nbsp;files</button>
+</nav>
+
+<div id="sheet" class="sheet hidden" role="dialog" aria-modal="true"></div>
+<div id="overlay" class="overlay hidden"></div>
+
+<script src="js/data.js"></script>
+<script src="js/engine.js"></script>
+<script src="js/ui.js"></script>
+</body>
+</html>

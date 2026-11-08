@@ -1,0 +1,161 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Glow Wealth Partners,awhitfield@glowwp.com,2026-04-01,2026-04-15,2500.00,paid,Monthly retainer April
+INV-1002,Brightwater Church,media@brightwaterdfw.org,2026-04-04,2026-04-18,300.00,paid,Podcast Studio 2hr 4/1
+INV-1003,Megan Ramirez,megan@boldandbrave.fm,2026-04-06,2026-04-20,300.00,paid,
+INV-1004,Brightwater Church,media@brightwaterdfw.org,2026-04-10,2026-04-24,300.00,paid,B003 Podcast Studio 2hr
+INV-1005,Evergreen & Co Builders,greg@evergreen.build,2026-04-12,2026-04-26,1500.00,paid,
+INV-1006,Dr Fischer,ivy@fischerdental.com,2026-04-13,2026-04-27,1500.00,paid,Content Day 4/13
+INV-1007,Metroplex Makers,derek@metroplexmakers.fm,2026-04-14,2026-04-28,550.00,paid,B006 Podcast Studio 4hr
+INV-1008,Hectors Roofing,hector@hectorsroofingtx.com,2026-04-15,2026-04-29,900.00,paid,B008 Reels Pack
+INV-1009,Bold & Brave Podcast,megan@boldandbrave.fm,2026-04-16,2026-04-30,300.00,paid,Podcast Studio 2hr 4/15
+INV-1010,Trinity Med Spa - Plano,renee@trinitymedspa.com,2026-04-20,2026-05-04,1500.00,paid,
+INV-1011,Brightwater Church,media@brightwaterdfw.org,2026-04-23,2026-05-07,300.00,paid,
+INV-1012,Rosa Fischer,rosa@sagebridal.com,2026-04-27,2026-05-11,900.00,paid,B012 Reels Pack
+INV-1013,Metroplex Makers,derek@metroplexmakers.fm,2026-04-28,2026-05-12,550.00,paid,B014 Podcast Studio 4hr
+INV-1014,Megan Ramirez,megan@boldandbrave.fm,2026-04-28,2026-05-12,300.00,paid,Podcast Studio 2hr 4/27
+INV-1015,Victor Delgado,victor@delgadoinsures.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1016,Glow Wealth Partners,awhitfield@glowwp.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1017,Brightwater DFW,media@brightwaterdfw.org,2026-05-02,2026-05-16,300.00,paid,Podcast Studio 2hr 4/30
+INV-1018,Megan Ramirez,megan@boldandbrave.fm,2026-05-08,2026-05-22,300.00,paid,B018 Podcast Studio 2hr
+INV-1019,Brightwater Media Team,media@brightwaterdfw.org,2026-05-08,2026-05-22,300.00,paid,B017 Podcast Studio 2hr
+INV-1020,Derek Cho,derek@metroplexmakers.fm,2026-05-12,2026-05-26,550.00,paid,B021 Podcast Studio 4hr
+INV-1021,Hillcrest Fit,mia@hillcrestfit.co,2026-05-12,2026-05-26,900.00,paid,Reels Pack 5/11
+INV-1022,Vista,rosa@vistamedspa.com,2026-05-15,2026-05-29,900.00,paid,B023 Reels Pack
+INV-1023,Hector's Roofing LLC,hector@hectorsroofingtx.com,2026-05-15,2026-05-29,900.00,paid,B024 Reels Pack
+INV-1024,Brightwater Media Team,media@brightwaterdfw.org,2026-05-18,2026-06-01,300.00,paid,B025 Podcast Studio 2hr
+INV-1025,Bold and Brave,megan@boldandbrave.fm,2026-05-20,2026-06-03,300.00,paid,Podcast Studio 2hr 5/20
+INV-1026,Trinity Med Spa - Frisco,renee@trinitymedspa.com,2026-05-26,2026-06-09,1500.00,paid,
+INV-1027,Rosa Fischer,rosa@sagebridal.com,2026-05-27,2026-06-10,900.00,paid,Reels Pack 5/25
+INV-1028,Evergreen,greg@evergreen.build,2026-05-28,2026-06-11,1500.00,paid,Content Day 5/26
+INV-1029,Ethan Becker,ethan@ridgewaybarbers.com,2026-05-28,2026-06-11,900.00,paid,Reels Pack 5/25
+INV-1030,Lucia Kim,lucia@oakcliffrealty.com,2026-05-28,2026-06-11,1500.00,paid,
+INV-1031,Metroplex Makers,derek@metroplexmakers.fm,2026-05-28,2026-06-11,550.00,paid,B029 Podcast Studio 4hr
+INV-1032,Brightwater Media Team,media@brightwaterdfw.org,2026-05-30,2026-06-13,300.00,paid,
+INV-1033,Bold and Brave,megan@boldandbrave.fm,2026-05-30,2026-06-13,300.00,paid,Podcast Studio 2hr 5/29
+INV-1034,Malik Law,hmalik@maliklaw.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1035,Silverleaf Chiro,drmoore@silverleafchiro.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1036,Delgado Insurance Group,victor@delgadoinsures.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1037,Glow Wealth Partners,awhitfield@glowwp.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1038,Kim Dental PLLC,office@kimdental.com,2026-06-03,2026-06-17,1500.00,paid,Content Day 6/2
+INV-1039,Megan Ramirez,megan@boldandbrave.fm,2026-06-05,2026-06-19,300.00,paid,
+INV-1040,Brightwater DFW,media@brightwaterdfw.org,2026-06-05,2026-06-19,225.00,paid,B037 Podcast Studio 2hr
+INV-1041,Brightwater Media Team,media@brightwaterdfw.org,2026-06-09,2026-06-23,225.00,paid,B042 Podcast Studio 2hr
+INV-1042,Hillcrest Fitness,mia@hillcrestfit.co,2026-06-09,2026-06-23,900.00,paid,
+INV-1043,Fischer Dental PLLC,ivy@fischerdental.com,2026-06-10,2026-06-24,1500.00,paid,
+INV-1044,Fischer Family Law PLLC,sfischer@fischerfamilylaw.com,2026-06-11,2026-06-25,900.00,paid,
+INV-1045,Derek Cho,derek@metroplexmakers.fm,2026-06-11,2026-06-25,550.00,paid,Podcast Studio 4hr 6/11
+INV-1046,Megan Ramirez,megan@boldandbrave.fm,2026-06-11,2026-06-25,300.00,paid,B045 Podcast Studio 2hr
+INV-1047,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-06-12,2026-06-26,900.00,paid,
+INV-1048,Brightwater DFW,media@brightwaterdfw.org,2026-06-17,2026-07-01,225.00,paid,Podcast Studio 2hr 6/16
+INV-1049,Bold & Brave Podcast,megan@boldandbrave.fm,2026-06-17,2026-07-01,300.00,paid,Podcast Studio 2hr 6/17
+INV-1050,Vista Med Spa,rosa@vistamedspa.com,2026-06-23,2026-07-07,900.00,paid,
+INV-1051,Ridgeway Barbers,ethan@ridgewaybarbers.com,2026-06-23,2026-07-07,900.00,paid,Reels Pack 6/22
+INV-1052,Parkside Builders LLC,hector@parkside.build,2026-06-23,2026-07-07,1500.00,paid,
+INV-1053,Brightwater DFW,media@brightwaterdfw.org,2026-06-24,2026-07-08,225.00,paid,Podcast Studio 2hr 6/23
+INV-1054,Hectors Roofing,hector@hectorsroofingtx.com,2026-06-24,2026-07-08,900.00,paid,B052 Reels Pack
+INV-1055,Sage Bridal Boutique,rosa@sagebridal.com,2026-06-25,2026-07-09,900.00,paid,B057 Reels Pack
+INV-1056,Metroplex Makers,derek@metroplexmakers.fm,2026-06-29,2026-07-13,550.00,paid,Podcast Studio 4hr 6/29
+INV-1057,Megan Ramirez,megan@boldandbrave.fm,2026-06-29,2026-07-13,300.00,paid,Podcast Studio 2hr 6/26
+INV-1058,Delgado Ins,victor@delgadoinsures.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1059,Evergreen Builders LLC,greg@evergreen.build,2026-07-01,2026-07-15,1500.00,paid,
+INV-1060,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-07-01,2026-07-15,900.00,paid,Reels Pack 7/1
+INV-1061,Silverleaf Chiro,drmoore@silverleafchiro.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1062,Malik Law Firm PLLC,hmalik@maliklaw.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1063,Brightwater Media Team,media@brightwaterdfw.org,2026-07-03,2026-07-17,225.00,paid,B063 Podcast Studio 2hr
+INV-1064,Trinity Med Spa - Frisco,renee@trinitymedspa.com,2026-07-07,2026-07-21,1500.00,paid,
+INV-1065,B&B Podcast,megan@boldandbrave.fm,2026-07-08,2026-07-22,300.00,unpaid,B064 Podcast Studio 2hr
+INV-1066,Brightwater Church,media@brightwaterdfw.org,2026-07-09,2026-07-23,225.00,paid,
+INV-1067,Cypress Gym,jared@cypressgym.co,2026-07-09,2026-07-23,900.00,paid,Reels Pack 7/6
+INV-1068,Kim Dental PLLC,office@kimdental.com,2026-07-12,2026-07-26,1500.00,paid,Content Day 7/10
+INV-1069,Hillcrest Fitness,mia@hillcrestfit.co,2026-07-13,2026-07-27,900.00,paid,
+INV-1070,Megan Ramirez,megan@boldandbrave.fm,2026-07-14,2026-07-28,300.00,unpaid,
+INV-1071,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-07-14,2026-07-28,900.00,paid,B075 Reels Pack
+INV-1072,Metroplex Makers Podcast,derek@metroplexmakers.fm,2026-07-15,2026-07-29,550.00,paid,Podcast Studio 4hr 7/14
+INV-1073,Hector's Roofing LLC,hector@hectorsroofingtx.com,2026-07-16,2026-07-30,900.00,paid,
+INV-1074,Brightwater Media Team,media@brightwaterdfw.org,2026-07-16,2026-07-30,225.00,paid,
+INV-1075,The Keystone Lab,maria@thekeystonelab.coffee,2026-07-17,2026-07-31,900.00,paid,Reels Pack 7/17
+INV-1076,Oak Cliff Realty,lucia@oakcliffrealty.com,2026-07-17,2026-07-31,1500.00,paid,
+INV-1077,Rosa Fischer,rosa@sagebridal.com,2026-07-18,2026-08-01,900.00,paid,
+INV-1078,Dr. Hannah Becker,hbecker@bloomfamilytherapy.com,2026-07-18,2026-08-01,1500.00,paid,B079 Content Day
+INV-1079,Vista Med Spa,rosa@vistamedspa.com,2026-07-20,2026-08-03,900.00,paid,B083 Reels Pack
+INV-1080,Ethan Becker,ethan@ridgewaybarbers.com,2026-07-21,2026-08-04,900.00,paid,Reels Pack 7/20
+INV-1081,Brightwater Church,media@brightwaterdfw.org,2026-07-22,2026-08-05,225.00,paid,B087 Podcast Studio 2hr
+INV-1082,Megan Ramirez,megan@boldandbrave.fm,2026-07-23,2026-08-06,300.00,unpaid,Podcast Studio 2hr 7/22
+INV-1083,Fischer Family Law,sfischer@fischerfamilylaw.com,2026-07-23,2026-08-06,900.00,paid,
+INV-1084,Fischers Auto,sam@fischersautospa.com,2026-07-23,2026-08-06,900.00,paid,
+INV-1085,Fischer Dental PLLC,ivy@fischerdental.com,2026-07-23,2026-08-06,1500.00,unpaid,
+INV-1086,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-07-27,2026-08-10,900.00,paid,Reels Pack 7/27
+INV-1087,Parkside & Co Builders,hector@parkside.build,2026-07-28,2026-08-11,1500.00,paid,Content Day 7/28
+INV-1088,Bold & Brave Podcast,megan@boldandbrave.fm,2026-07-29,2026-08-12,300.00,unpaid,
+INV-1089,Metroplex Makers Podcast,derek@metroplexmakers.fm,2026-07-29,2026-08-12,550.00,paid,
+INV-1090,Brightwater DFW,media@brightwaterdfw.org,2026-07-29,2026-08-12,225.00,paid,
+INV-1091,Malik Law Firm,hmalik@maliklaw.com,2026-08-01,2026-08-15,2250.00,paid,Monthly retainer August
+INV-1092,Delgado Insurance,victor@delgadoinsures.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1093,Silverleaf Chiro,drmoore@silverleafchiro.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1094,Cypress Gym,jared@cypressgym.co,2026-08-04,2026-08-18,900.00,paid,B096 Reels Pack
+INV-1095,Megan Ramirez,megan@boldandbrave.fm,2026-08-05,2026-08-19,300.00,paid,B095 Podcast Studio 2hr
+INV-1096,Hector Whitfield,hector@hectorsroofingtx.com,2026-08-07,2026-08-21,900.00,paid,
+INV-1097,Brightwater DFW,media@brightwaterdfw.org,2026-08-08,2026-08-22,225.00,paid,
+INV-1098,Evergreen & Co Builders,greg@evergreen.build,2026-08-10,2026-08-24,1500.00,paid,B100 Content Day
+INV-1099,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-08-12,2026-08-26,900.00,paid,B103 Reels Pack
+INV-1100,Rosa Fischer,rosa@sagebridal.com,2026-08-13,2026-08-27,900.00,paid,Reels Pack 8/10
+INV-1101,Fischers Auto,sam@fischersautospa.com,2026-08-15,2026-08-29,900.00,paid,
+INV-1102,Keystone Lab,maria@thekeystonelab.coffee,2026-08-15,2026-08-29,900.00,paid,Reels Pack 8/12
+INV-1103,Oakcliff Realty Group,alan@oakcliffrg.com,2026-08-16,2026-08-30,1500.00,unpaid,
+INV-1104,Brightwater Church,media@brightwaterdfw.org,2026-08-17,2026-08-31,225.00,paid,B108 Podcast Studio 2hr
+INV-1105,Hillcrest Athletics,mia@hillcrestathletics.com,2026-08-17,2026-08-31,900.00,unpaid,B111 Reels Pack
+INV-1106,Metroplex Makers Podcast,derek@metroplexmakers.fm,2026-08-18,2026-09-01,550.00,paid,B110 Podcast Studio 4hr
+INV-1107,Megan Ramirez,megan@boldandbrave.fm,2026-08-20,2026-09-03,300.00,paid,
+INV-1108,Vista Medspa,rosa@vistamedspa.com,2026-08-21,2026-09-04,900.00,paid,Reels Pack 8/20
+INV-1109,Dr Kim,office@kimdental.com,2026-08-23,2026-09-06,1500.00,paid,B112 Content Day
+INV-1110,Trinity Med Spa - Frisco,renee@trinitymedspa.com,2026-08-23,2026-09-06,1500.00,paid,
+INV-1111,Hector's Roofing LLC,hector@hectorsroofingtx.com,2026-08-24,2026-09-07,900.00,paid,
+INV-1112,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-08-25,2026-09-08,900.00,paid,
+INV-1113,Ridgeway Barbers,ethan@ridgewaybarbers.com,2026-08-26,2026-09-09,900.00,unpaid,
+INV-1114,B&B Podcast,megan@boldandbrave.fm,2026-08-26,2026-09-09,300.00,paid,Podcast Studio 2hr 8/24
+INV-1115,Brightwater Media Team,media@brightwaterdfw.org,2026-08-29,2026-09-12,225.00,paid,B119 Podcast Studio 2hr
+INV-1116,Fischer Family Law PLLC,sfischer@fischerfamilylaw.com,2026-08-29,2026-09-12,900.00,paid,Reels Pack 8/28
+INV-1117,Brooks Auto,carlos.brooks.detail@gmail.com,2026-08-30,2026-09-13,1500.00,paid,
+INV-1118,Derek Cho,derek@metroplexmakers.fm,2026-09-01,2026-09-15,550.00,paid,
+INV-1119,Dr. Moore,drmoore@silverleafchiro.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1120,Victor Delgado,victor@delgadoinsures.com,2026-09-01,2026-09-15,2500.00,unpaid,Monthly retainer September
+INV-1121,Bold & Brave Podcast,megan@boldandbrave.fm,2026-09-01,2026-09-15,300.00,paid,
+INV-1122,Malik Law Firm PLLC,hmalik@maliklaw.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1123,Ivy Khan,ivy@abchomecare.com,2026-09-02,2026-09-16,1500.00,unpaid,
+INV-1124,Cypress,jared@cypressgym.co,2026-09-03,2026-09-17,900.00,paid,Reels Pack 8/31
+INV-1125,Bloom Therapy,hbecker@bloomfamilytherapy.com,2026-09-04,2026-09-18,1500.00,paid,
+INV-1126,Hector's Roofing LLC,hector@hectorsroofingtx.com,2026-09-07,2026-09-21,900.00,partial,
+INV-1127,Dr. Ivy Fischer,ivy@fischerdental.com,2026-09-07,2026-09-21,1500.00,paid,B126 Content Day
+INV-1128,Brightwater DFW,media@brightwaterdfw.org,2026-09-08,2026-09-22,225.00,paid,Podcast Studio 2hr 9/7
+INV-1129,Riverbend Coffee,simone@riverbendcoffee.com,2026-09-08,2026-09-22,900.00,unpaid,
+INV-1130,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-09-08,2026-09-22,900.00,paid,B131 Reels Pack
+INV-1131,Lucia Kim,lucia@oakcliffrealty.com,2026-09-09,2026-09-23,1500.00,paid,Content Day 9/9
+INV-1132,Parkside,hector@parkside.build,2026-09-09,2026-09-23,1500.00,unpaid,Content Day 9/8
+INV-1133,Keystonelab Coffee,maria@thekeystonelab.coffee,2026-09-11,2026-09-25,900.00,paid,B132 Reels Pack
+INV-1134,Bold and Brave,megan@boldandbrave.fm,2026-09-14,2026-09-28,300.00,paid,
+INV-1135,Hillcrest,mia@hillcrestathletics.com,2026-09-15,2026-09-29,900.00,paid,
+INV-1136,Sage Bridal,rosa@sagebridal.com,2026-09-16,2026-09-30,900.00,paid,Reels Pack 9/14
+INV-1137,Brightwater Media Team,media@brightwaterdfw.org,2026-09-17,2026-10-01,225.00,paid,Podcast Studio 2hr 9/14
+INV-1138,Metroplex Makers,derek@metroplexmakers.fm,2026-09-18,2026-10-02,550.00,paid,B142 Podcast Studio 4hr
+INV-1139,Oak Cliff Realty LLC,lucia@oakcliffrealty.com,2026-09-19,2026-10-03,1500.00,paid,B146 Content Day
+INV-1140,Evergreen Builders,greg@evergreen.build,2026-09-21,2026-10-05,1500.00,unpaid,B143 Content Day
+INV-1141,Fischers Auto,sam@fischersautospa.com,2026-09-23,2026-10-07,900.00,unpaid,Reels Pack 9/22
+INV-1142,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-09-23,2026-10-07,900.00,unpaid,
+INV-1143,Brightwater Media Team,media@brightwaterdfw.org,2026-09-24,2026-10-08,225.00,unpaid,
+INV-1144,Vista Med Spa - Plano,rosa@vistamedspa.com,2026-09-25,2026-10-09,900.00,unpaid,
+INV-1145,Bold & Brave Podcast,megan@boldandbrave.fm,2026-09-26,2026-10-10,300.00,unpaid,B149 Podcast Studio 2hr
+INV-1146,Brooks Auto Detailing,carlos.brooks.detail@gmail.com,2026-09-27,2026-10-11,900.00,unpaid,Reels Pack 9/25
+INV-1147,Dr. Dana Kim,office@kimdental.com,2026-09-28,2026-10-12,1500.00,unpaid,Content Day 9/28
+INV-1148,Lucia Kim,lucia@oakcliffrealty.com,2026-09-28,2026-10-12,1500.00,paid,
+INV-1149,Hectors Roofing,hector@hectorsroofingtx.com,2026-09-29,2026-10-13,900.00,unpaid,Reels Pack 9/29
+INV-1150,Ethan Becker,ethan@ridgewaybarbers.com,2026-09-29,2026-10-13,900.00,unpaid,Reels Pack 9/28
+INV-1151,Trinity Medspa,renee@trinitymedspa.com,2026-10-01,2026-10-15,1500.00,unpaid,Content Day 9/30
+INV-1152,Delgado Ins,victor@delgadoinsures.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1153,Hector's Roofing,hector@hectorsroofingtx.com,2026-10-01,2026-10-15,900.00,unpaid,Reels Pack 9/29
+INV-1154,Malik,hmalik@maliklaw.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1155,Dr. Moore,drmoore@silverleafchiro.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1156,Alan Delgado,alan@oakcliffrg.com,2026-10-02,2026-10-16,1500.00,unpaid,B157 Content Day
+INV-1157,Metroplex Makers,derek@metroplexmakers.fm,2026-10-02,2026-10-16,550.00,unpaid,Podcast Studio 4hr 10/2
+INV-1158,Fieldhouse Marketing,ivy@fieldhousemktg.com,2026-10-05,2026-10-19,900.00,unpaid,B161 Reels Pack
+INV-1159,Brightwater DFW,media@brightwaterdfw.org,2026-10-06,2026-10-20,225.00,unpaid,B160 Podcast Studio 2hr
+INV-1160,Fischer Dental PLLC,ivy@fischerdental.com,2026-06-10,2026-06-24,1500.00,void,

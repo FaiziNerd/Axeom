@@ -1,0 +1,516 @@
+{
+  "category_accuracy": 1,
+  "frustration_accuracy": 1,
+  "rows": [
+    {
+      "i": 0,
+      "line": "[2026-04-09 17:37] WHATSAPP from +1 214-555-0161 (Andre): Thanks team, great session.",
+      "truth": "other",
+      "truth_frustrated": 0,
+      "got": "other",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 1,
+      "line": "[2026-04-26 21:33] WHATSAPP from +1 972-555-0132 (Ivy): Please take out the part in why floss matters where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 2,
+      "line": "[2026-05-01 16:35] EMAIL from hector@hectorsroofingtx.com: Can you cut the first 3 seconds of the one we shot last week? It starts slow.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 3,
+      "line": "[2026-05-08 13:50] WHATSAPP from +1 817-555-0124 (Alan): Please make the captions bigger on the one we shot last week, they're hard to read on my phone.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 4,
+      "line": "[2026-05-13 10:42] EMAIL from rosa@sagebridal.com: Actually we changed our mind on owner story. Can we get a different song and a new intro? Sorry!",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 5,
+      "line": "[2026-05-16 13:07] WHATSAPP from +1 214-555-0104 (Hector): On divorce timeline, use our brand color navy, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 6,
+      "line": "[2026-05-22 11:35] EMAIL from rosa@vistamedspa.com: Can meet the injector have a calmer song? This one feels too hype for us.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 7,
+      "line": "[2026-05-27 18:26] WHATSAPP from +1 214-555-0171 (Hector): On leak warning signs our name is spelled wrong in the caption.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 8,
+      "line": "[2026-06-02 18:59] WHATSAPP from +1 214-555-0168 (Rosa): See you tomorrow.",
+      "truth": "schedule",
+      "truth_frustrated": 0,
+      "got": "schedule",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 9,
+      "line": "[2026-06-05 09:06] EMAIL from victor@delgadoinsures.com: Please take out the part in the one we shot last week where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 10,
+      "line": "[2026-06-10 21:40] EMAIL from ivy@fieldhousemktg.com: Hi, Ivy from Fieldhouse Marketing. Please bill us (Fieldhouse) for Rosewood Pediatrics and Copperline Physical Therapy. We pay monthly.",
+      "truth": "billing",
+      "truth_frustrated": 0,
+      "got": "billing",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 11,
+      "line": "[2026-06-19 15:40] EMAIL from awhitfield@glowwp.com: Alan here. We'll pause after this month. Too many rounds of fixes, and my notes keep getting missed. Nothing personal.",
+      "truth": "churn",
+      "truth_frustrated": 1,
+      "got": "churn",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 12,
+      "line": "[2026-06-25 20:17] EMAIL from sfischer@fischerfamilylaw.com: Please blur the face of the client in the car accident: first 3 steps video, she didn't sign the release.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 13,
+      "line": "[2026-06-28 13:00] EMAIL from victor@delgadoinsures.com: Can teen driver tips have a calmer song? This one feels too hype for us.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 14,
+      "line": "[2026-07-01 17:01] EMAIL from hector@parkside.build: On the owner story video, use our brand color burgundy, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 15,
+      "line": "[2026-07-06 10:24] EMAIL from ethan@ridgewaybarbers.com: Sale promo still has the same problem. I already told you about this.",
+      "truth": "complaint",
+      "truth_frustrated": 1,
+      "got": "complaint",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 16,
+      "line": "[2026-07-08 08:40] WHATSAPP from +1 214-555-0104 (Hector): Three new cases came from your videos this month. Thank you.",
+      "truth": "other",
+      "truth_frustrated": 0,
+      "got": "other",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 17,
+      "line": "[2026-07-13 20:49] VOICE NOTE from +1 817-555-0192 (Reggie), 1:34. Transcript: \"For patient story use the other shot, the one outside, not inside.\"",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 18,
+      "line": "[2026-07-18 10:29] EMAIL from aortiz@copperlineptdallas.com: Please take out the part in patient story where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 19,
+      "line": "[2026-07-22 11:39] WHATSAPP from +1 972-555-0132 (Ivy): Can we move to 2pm instead?",
+      "truth": "schedule",
+      "truth_frustrated": 0,
+      "got": "schedule",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 20,
+      "line": "[2026-07-24 11:51] EMAIL from hector@hectorsroofingtx.com: Can you cut the first 3 seconds of crew intro? It starts slow.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 21,
+      "line": "[2026-07-25 20:36] WHATSAPP from +1 972-555-0161 (Maria): Can desk posture fix have a calmer song? This one feels too hype for us.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 22,
+      "line": "[2026-07-29 15:30] EMAIL from victor@delgadoinsures.com: The music on the client story video is too loud, I can't hear myself.",
+      "truth": "request",
+      "truth_frustrated": 1,
+      "got": "request",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 23,
+      "line": "[2026-07-30 19:51] WHATSAPP from +1 972-555-0132 (Ivy): The office tour video: add the line 'walk-ins welcome' at the end please.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 24,
+      "line": "[2026-08-03 08:10] EMAIL from hector@hectorsroofingtx.com: Please make the captions bigger on roof inspection walkthrough, they're hard to read on my phone.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 25,
+      "line": "[2026-08-03 18:08] WHATSAPP from +1 817-555-0135 (Lucia): Can open house recap have a calmer song? This one feels too hype for us.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 26,
+      "line": "[2026-08-06 02:16] EMAIL from maria@thekeystonelab.coffee: Did anyone see my message about bean origin story? It's not fixed.",
+      "truth": "complaint",
+      "truth_frustrated": 1,
+      "got": "complaint",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 27,
+      "line": "[2026-08-09 08:02] WHATSAPP from +1 817-555-0197 (Sam): Tesla detail still has the same problem. I already told you about this.",
+      "truth": "complaint",
+      "truth_frustrated": 1,
+      "got": "complaint",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 28,
+      "line": "[2026-08-12 17:24] EMAIL from rosa@vistamedspa.com: This is the second time I ask. meet the injector is still wrong.",
+      "truth": "complaint",
+      "truth_frustrated": 1,
+      "got": "complaint",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 29,
+      "line": "[2026-08-15 13:06] EMAIL from hmalik@maliklaw.com: On slip and fall rights, use our brand color teal, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 30,
+      "line": "[2026-08-17 14:08] WHATSAPP from +1 214-555-0195 (Hector): On shingle vs metal our name is spelled wrong in the caption.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 31,
+      "line": "[2026-08-17 20:01] EMAIL from hmalik@maliklaw.com: Can you remove the bit where I stumble on my words in meet the attorney?",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 32,
+      "line": "[2026-08-20 12:36] EMAIL from drmoore@silverleafchiro.com: On the what to expect visit one video, use our brand color teal, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 33,
+      "line": "[2026-08-21 15:01] EMAIL from derek@metroplexmakers.fm: Do you guys also cut short clips from our episodes? We'd pay for that. Let me know.",
+      "truth": "lead",
+      "truth_frustrated": 0,
+      "got": "lead",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 34,
+      "line": "[2026-08-22 17:37] INSTAGRAM DM to @brooksautodetailin: Reels pack is $900 for 3 reels. Here is the booking link.",
+      "truth": "other",
+      "truth_frustrated": 0,
+      "got": "other",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 35,
+      "line": "[2026-08-24 12:16] EMAIL from hector@hectorsroofingtx.com: Please blur the face of the client in hail claim help, she didn't sign the release.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 36,
+      "line": "[2026-08-28 17:21] WHATSAPP from +1 972-555-0187 (Greg): The music on owner story is too loud, I can't hear myself.",
+      "truth": "request",
+      "truth_frustrated": 1,
+      "got": "request",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 37,
+      "line": "[2026-08-30 15:07] EMAIL from renee@trinitymedspa.com: On hydrafacial reveal, use our brand color navy, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 38,
+      "line": "[2026-08-31 19:50] EMAIL from hector@hectorsroofingtx.com: Please take out the part in crew intro where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 39,
+      "line": "[2026-09-04 20:25] EMAIL from aortiz@copperlineptdallas.com: Please take out the part in desk posture fix where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 40,
+      "line": "[2026-09-09 21:12] EMAIL from hbecker@bloomfamilytherapy.com: On family sessions explained, use our brand color gold, not the one you used.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 41,
+      "line": "[2026-09-13 14:25] INSTAGRAM DM from @parksidebuildersdfw: Can you remove the bit where I stumble on my words in project timeline?",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 42,
+      "line": "[2026-09-15 16:29] INSTAGRAM DM from billing@acct-dept.co: Invoice attached. Please pay immediately. (invoice.zip)",
+      "truth": "spam",
+      "truth_frustrated": 0,
+      "got": "spam",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 43,
+      "line": "[2026-09-18 14:40] EMAIL from victor@delgadoinsures.com: Please take out the part in the one we shot last week where I talk about prices. Prices are changing.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 44,
+      "line": "[2026-09-19 11:25] EMAIL from mzamora@rosewoodpeds.com: Please blur the face of the client in the what to expect visit one video, she didn't sign the release.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 45,
+      "line": "[2026-09-22 08:51] WHATSAPP from +1 972-555-0132 (Ivy): Can you cut the first 3 seconds of the office tour video? It starts slow.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 46,
+      "line": "[2026-09-23 10:58] WHATSAPP from +1 817-555-0135 (Lucia): We have to cancel today's shoot, family emergency. Can we move it? We already paid.",
+      "truth": "schedule",
+      "truth_frustrated": 0,
+      "got": "schedule",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 47,
+      "line": "[2026-09-26 15:55] WHATSAPP from +1 817-555-0135 (Lucia): For listing tour: oak st use the other shot, the one outside, not inside.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 48,
+      "line": "[2026-09-28 18:56] EMAIL from aortiz@copperlineptdallas.com: Insurance we take: add the line 'walk-ins welcome' at the end please.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 49,
+      "line": "[2026-10-02 21:33] EMAIL from drmoore@silverleafchiro.com: Please blur the face of the client in the what to expect visit one video, she didn't sign the release.",
+      "truth": "request",
+      "truth_frustrated": 0,
+      "got": "request",
+      "frus": 0,
+      "okCat": true,
+      "okFrus": true
+    },
+    {
+      "i": 50,
+      "line": "[2026-10-04 10:33] WHATSAPP from +1 214-555-0134 (Angela): The music on back pain myths is too loud, I can't hear myself.",
+      "truth": "request",
+      "truth_frustrated": 1,
+      "got": "request",
+      "frus": 1,
+      "okCat": true,
+      "okFrus": true
+    }
+  ]
+}

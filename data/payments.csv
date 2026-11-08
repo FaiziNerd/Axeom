@@ -1,0 +1,129 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,04/04/2026,Glow WP,awhitfield@glowwp.com,2500.00,card,INV-1001
+P5002,17/04/2026,BRIGHTWATER CHURCH,media@brightwaterdfw.org,300.00,card,INV-1004
+P5003,17/04/2026,Bold & Brave,megan@boldandbrave.fm,300.00,card,INV-1009
+P5004,19/04/2026,Brightwater DFW,media@brightwaterdfw.org,300.00,card,
+P5005,21/04/2026,EVERGREEN BUILDERS LLC,greg@evergreen.build,1500.00,ACH,INV-1005
+P5006,21/04/2026,DEREK CHO,derek@metroplexmakers.fm,550.00,ACH,
+P5007,28/04/2026,MEGAN RAMIREZ,megan@boldandbrave.fm,300.00,card,INV-1003
+P5008,28/04/2026,Dr Fischer,ivy@fischerdental.com,1500.00,Zelle,INV-1006
+P5009,29/04/2026,Trinity Med Spa - Plano,renee@trinitymedspa.com,1500.00,ACH,INV-1010
+P5010,02/05/2026,Rosa Fischer,rosa@sagebridal.com,900.00,card,
+P5011,02/05/2026,Brightwater Media Team,media@brightwaterdfw.org,300.00,ACH,INV-1011
+P5012,03/05/2026,HECTORS ROOFING,hector@hectorsroofingtx.com,900.00,card,
+P5013,06/05/2026,Glow WP,awhitfield@glowwp.com,2500.00,card,INV-1016
+P5014,10/05/2026,Bold & Brave Podcast,megan@boldandbrave.fm,300.00,ACH,INV-1018
+P5015,10/05/2026,B&B PODCAST,megan@boldandbrave.fm,300.00,card,
+P5016,13/05/2026,DEREK CHO,derek@metroplexmakers.fm,550.00,card,
+P5017,13/05/2026,MIA ROMERO,mia@hillcrestfit.co,900.00,ACH,
+P5018,14/05/2026,Brightwater Church,media@brightwaterdfw.org,300.00,card,INV-1017
+P5019,16/05/2026,Delgado Ins,victor@delgadoinsures.com,2500.00,Zelle,INV-1015
+P5020,17/05/2026,Hector's Roofing LLC,hector@hectorsroofingtx.com,900.00,Zelle,INV-1023
+P5021,22/05/2026,Vista Medspa,rosa@vistamedspa.com,900.00,ACH,INV-1022
+P5022,23/05/2026,Bold & Brave Podcast,megan@boldandbrave.fm,300.00,card,INV-1025
+P5023,26/05/2026,Brightwater DFW,media@brightwaterdfw.org,300.00,ACH,INV-1019
+P5024,29/05/2026,TRINITY MEDSPA,renee@trinitymedspa.com,1500.00,card,INV-1026
+P5025,30/05/2026,Brightwater DFW,media@brightwaterdfw.org,300.00,card,
+P5026,30/05/2026,Metroplex Makers,derek@metroplexmakers.fm,550.00,Zelle,INV-1020
+P5027,02/06/2026,Metroplex Makers,derek@metroplexmakers.fm,550.00,ACH,INV-1031
+P5028,02/06/2026,OAK CLIFF REALTY,lucia@oakcliffrealty.com,1500.00,Zelle,INV-1030
+P5029,02/06/2026,GLOW WEALTH PARTNERS,awhitfield@glowwp.com,2500.00,card,INV-1037
+P5030,02/06/2026,BRIGHTWATER DFW,media@brightwaterdfw.org,300.00,Zelle,
+P5031,04/06/2026,DELGADO INSURANCE,victor@delgadoinsures.com,2500.00,ACH,INV-1036
+P5032,08/06/2026,B&B Podcast,megan@boldandbrave.fm,300.00,ACH,INV-1033
+P5033,09/06/2026,Ridgeway Barbers,ethan@ridgewaybarbers.com,900.00,card,INV-1029
+P5034,10/06/2026,PASTOR ANDRE MOORE,media@brightwaterdfw.org,225.00,card,INV-1040
+P5035,12/06/2026,Derek Cho,derek@metroplexmakers.fm,550.00,ACH,INV-1045
+P5036,13/06/2026,MALIK LAW FIRM,hmalik@maliklaw.com,2500.00,card,INV-1034
+P5037,14/06/2026,B&B PODCAST,megan@boldandbrave.fm,300.00,card,
+P5038,15/06/2026,EVERGREEN BUILDERS,greg@evergreen.build,1500.00,card,INV-1028
+P5039,16/06/2026,Dr. Moore,drmoore@silverleafchiro.com,2500.00,card,INV-1035
+P5040,16/06/2026,HILLCREST,mia@hillcrestfit.co,900.00,card,
+P5041,18/06/2026,Fischer Law,sfischer@fischerfamilylaw.com,900.00,Zelle,INV-1044
+P5042,18/06/2026,Sage Bridal,rosa@sagebridal.com,900.00,Zelle,INV-1027
+P5043,18/06/2026,KIM DENTAL,office@kimdental.com,1500.00,ACH,INV-1038
+P5044,19/06/2026,Brightwater Church,media@brightwaterdfw.org,225.00,ACH,INV-1048
+P5045,21/06/2026,Brightwater DFW,media@brightwaterdfw.org,225.00,Zelle,
+P5046,25/06/2026,RIDGEWAY BARBERSHOP,ethan@ridgewaybarbers.com,900.00,Zelle,
+P5047,25/06/2026,Fischer Dental PLLC,ivy@fischerdental.com,1500.00,Zelle,
+P5048,26/06/2026,PARKSIDE BUILDERS,hector@parkside.build,1500.00,card,INV-1052
+P5049,26/06/2026,B&B Podcast,megan@boldandbrave.fm,300.00,card,INV-1049
+P5050,29/06/2026,B&B PODCAST,megan@boldandbrave.fm,300.00,card,INV-1046
+P5051,30/06/2026,Rosa Fischer,rosa@sagebridal.com,900.00,card,
+P5052,01/07/2026,PASTOR ANDRE MOORE,media@brightwaterdfw.org,225.00,Zelle,
+P5053,02/07/2026,Silverleaf Chiro,drmoore@silverleafchiro.com,2500.00,card,
+P5054,02/07/2026,DELGADO INSURANCE GROUP,victor@delgadoinsures.com,2500.00,ACH,INV-1058
+P5055,02/07/2026,Vista Med Spa - Frisco,rosa@vistamedspa.com,900.00,card,INV-1050
+P5056,05/07/2026,FIELDHOUSE MARKETING LLC,ivy@fieldhousemktg.com,900.00,ACH,Fieldhouse Jun invoices
+P5057,08/07/2026,BRIGHTWATER CHURCH,media@brightwaterdfw.org,225.00,ACH,INV-1063
+P5058,10/07/2026,MALIK LAW,hmalik@maliklaw.com,2500.00,ACH,INV-1062
+P5059,12/07/2026,Hector Adeyemi,hector@hectorsroofingtx.com,900.00,ACH,INV-1054
+P5060,12/07/2026,PASTOR ANDRE MOORE,media@brightwaterdfw.org,225.00,card,INV-1066
+P5061,14/07/2026,Cypress Gym TX,jared@cypressgym.co,900.00,card,INV-1067
+P5062,17/07/2026,Bold & Brave,megan@boldandbrave.fm,300.00,card,INV-1057
+P5063,17/07/2026,Metroplex Makers,derek@metroplexmakers.fm,550.00,card,INV-1056
+P5064,20/07/2026,Hillcrest,mia@hillcrestfit.co,900.00,ACH,INV-1069
+P5065,22/07/2026,Ridgeway Barbers,ethan@ridgewaybarbers.com,900.00,card,INV-1080
+P5066,22/07/2026,TRINITY MED SPA,renee@trinitymedspa.com,1500.00,card,INV-1064
+P5067,22/07/2026,Keystone Lab,maria@thekeystonelab.coffee,900.00,ACH,INV-1075
+P5068,23/07/2026,Evergreen & Co Builders,greg@evergreen.build,1500.00,ACH,
+P5069,24/07/2026,DANA KIM,office@kimdental.com,1500.00,card,INV-1068
+P5070,25/07/2026,HECTORS ROOFING,hector@hectorsroofingtx.com,900.00,ACH,INV-1073
+P5071,26/07/2026,IVY FISCHER,ivy@fischerdental.com,1500.00,Zelle,INV-1085
+P5072,27/07/2026,Metroplex Makers,derek@metroplexmakers.fm,550.00,card,INV-1072
+P5073,28/07/2026,Fischer's Auto Spa,sam@fischersautospa.com,900.00,ACH,INV-1084
+P5074,29/07/2026,PARKSIDE BUILDERS LLC,hector@parkside.build,1500.00,Zelle,INV-1087
+P5075,30/07/2026,Bloom Family Therapy,hbecker@bloomfamilytherapy.com,1500.00,Zelle,INV-1078
+P5076,30/07/2026,Fischer Family Law,sfischer@fischerfamilylaw.com,900.00,ACH,INV-1083
+P5077,31/07/2026,Brightwater DFW,media@brightwaterdfw.org,225.00,ACH,INV-1074
+P5078,03/08/2026,Brightwater DFW,media@brightwaterdfw.org,225.00,ACH,
+P5079,03/08/2026,FIELDHOUSE MARKETING LLC,ivy@fieldhousemktg.com,2700.00,ACH,Fieldhouse Jul invoices
+P5080,03/08/2026,BRIGHTWATER DFW,media@brightwaterdfw.org,225.00,card,INV-1081
+P5081,04/08/2026,Delgado Insurance Group,victor@delgadoinsures.com,2500.00,card,INV-1092
+P5082,04/08/2026,MEGAN RAMIREZ,,1200.00,Zelle,july sessions
+P5083,04/08/2026,Oak Cliff Realty,lucia@oakcliffrealty.com,1500.00,card,
+P5084,05/08/2026,Derek Cho,derek@metroplexmakers.fm,550.00,ACH,INV-1089
+P5085,06/08/2026,Silverleaf Chiropractic,drmoore@silverleafchiro.com,2500.00,ACH,INV-1093
+P5087,07/08/2026,BOLD & BRAVE PODCAST,megan@boldandbrave.fm,300.00,ACH,INV-1095
+P5088,09/08/2026,Sage Bridal Boutique,rosa@sagebridal.com,900.00,Zelle,
+P5089,10/08/2026,Malik Law,hmalik@maliklaw.com,2250.00,card,INV-1091
+P5090,11/08/2026,Evergreen Builders,greg@evergreen.build,1500.00,ACH,
+P5091,11/08/2026,VISTA MED SPA,rosa@vistamedspa.com,900.00,card,INV-1079
+P5092,14/08/2026,ROSA CASTILLO,rosa@vistamedspa.com,900.00,card,INV-1079
+P5093,16/08/2026,Hector Whitfield,hector@hectorsroofingtx.com,900.00,ACH,INV-1096
+P5094,17/08/2026,Keystone Lab,maria@thekeystonelab.coffee,900.00,card,INV-1102
+P5095,18/08/2026,Fischer's Auto Spa,sam@fischersautospa.com,900.00,card,INV-1101
+P5096,20/08/2026,Sage Bridal,rosa@sagebridal.com,900.00,card,INV-1100
+P5097,20/08/2026,ANDRE MOORE,media@brightwaterdfw.org,225.00,ACH,INV-1097
+P5098,24/08/2026,Hillcrest Athletics,mia@hillcrestathletics.com,900.00,card,INV-1105
+P5099,25/08/2026,METROPLEX MAKERS PODCAST,derek@metroplexmakers.fm,550.00,ACH,INV-1106
+P5100,30/08/2026,Fischer Family Law,sfischer@fischerfamilylaw.com,900.00,card,
+P5101,01/09/2026,DR. DANA KIM,office@kimdental.com,1500.00,Zelle,INV-1109
+P5102,02/09/2026,B&B Podcast,megan@boldandbrave.fm,300.00,card,INV-1114
+P5103,03/09/2026,FIELDHOUSE MARKETING LLC,ivy@fieldhousemktg.com,1800.00,ACH,Fieldhouse Aug invoices
+P5104,04/09/2026,MEGAN RAMIREZ,megan@boldandbrave.fm,300.00,card,INV-1107
+P5105,04/09/2026,Brightwater Church,media@brightwaterdfw.org,225.00,ACH,INV-1104
+P5106,04/09/2026,Bold and Brave,megan@boldandbrave.fm,300.00,card,INV-1121
+P5107,05/09/2026,Vista Medspa,rosa@vistamedspa.com,900.00,Zelle,INV-1108
+P5108,06/09/2026,Brooks Detailing,carlos.brooks.detail@gmail.com,1500.00,card,INV-1117
+P5109,06/09/2026,Dr. Moore,drmoore@silverleafchiro.com,2500.00,card,INV-1119
+P5110,07/09/2026,BLOOM THERAPY,hbecker@bloomfamilytherapy.com,1500.00,card,INV-1125
+P5111,08/09/2026,HECTOR MALIK,hmalik@maliklaw.com,2500.00,Zelle,INV-1122
+P5112,10/09/2026,Metroplex Makers,derek@metroplexmakers.fm,550.00,ACH,INV-1118
+P5113,10/09/2026,Trinity,renee@trinitymedspa.com,1500.00,card,INV-1110
+P5114,11/09/2026,Hectors Roofing,hector@hectorsroofingtx.com,900.00,ACH,INV-1111
+P5115,13/09/2026,The Keystone Lab,maria@thekeystonelab.coffee,900.00,card,INV-1133
+P5116,16/09/2026,Brightwater DFW,media@brightwaterdfw.org,225.00,card,INV-1115
+P5117,17/09/2026,SAGE BRIDAL BOUTIQUE,rosa@sagebridal.com,900.00,card,
+P5118,17/09/2026,Brightwater Church,media@brightwaterdfw.org,225.00,card,INV-1128
+P5119,18/09/2026,HECTOR WHITFIELD,,450.00,Zelle,half now half later
+P5120,20/09/2026,MIA ROMERO,mia@hillcrestathletics.com,900.00,card,INV-1135
+P5121,25/09/2026,CYPRESS GYM,jared@cypressgym.co,900.00,card,INV-1124
+P5122,25/09/2026,DR. IVY FISCHER,ivy@fischerdental.com,1500.00,card,
+P5123,27/09/2026,LUCIA KIM,lucia@oakcliffrealty.com,1500.00,card,
+P5124,29/09/2026,Brightwater Church,media@brightwaterdfw.org,225.00,Zelle,INV-1137
+P5125,29/09/2026,Bold & Brave Podcast,megan@boldandbrave.fm,300.00,card,INV-1134
+P5126,01/10/2026,Lucia Kim,lucia@oakcliffrealty.com,1500.00,card,INV-1139
+P5127,04/10/2026,FIELDHOUSE MARKETING LLC,ivy@fieldhousemktg.com,900.00,ACH,Fieldhouse Sep invoices
+P5128,05/10/2026,Lucia Kim,lucia@oakcliffrealty.com,1500.00,card,INV-1148
+P5129,06/10/2026,METROPLEX MAKERS,derek@metroplexmakers.fm,550.00,card,INV-1138
